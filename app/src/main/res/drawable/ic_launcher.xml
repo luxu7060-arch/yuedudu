@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#990000"
+        android:pathData="M54,0 A54,54 0 1,1 53.9,0 Z" />
+    <!-- Book Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,34 C36,32 46,36 52,40 L52,76 C46,72 36,68 28,70 Z" />
+    <!-- Book Right Page -->
+    <path
+        android:fillColor="#F0F0F0"
+        android:pathData="M80,34 C72,32 62,36 56,40 L56,76 C62,72 72,68 80,70 Z" />
+    <!-- Bookmark ribbon -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51,32 L57,32 L57,56 L54,52 L51,56 Z" />
+</vector>
